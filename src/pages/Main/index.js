@@ -58,7 +58,6 @@ export default function Main() {
       });
     }
   }
-
   return (
     <Container>
       <Header />
@@ -93,7 +92,7 @@ export default function Main() {
 
             <CardFooter>
               <Annotation>
-                Tranferencia de R$ 100,00 recebida de Marcos Murillo hoje às 14:32h
+                Tranferência de R$ 100,00 recebida de Marcos Murillo hoje às 14:32h
               </Annotation>
             </CardFooter>
           </Card>
